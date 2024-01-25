@@ -4,7 +4,7 @@
 Fazer a análise de sentimentos de um consumidor que está prestes a comprar um carro.
 
 ### Descrição:
-Na FacilitaAutomóveis há diversos modelos de carros á venda, um deles é o modelo XYZ Sedan que está custando em torno de R$155.000.00. Como qualquer carro ele possui seus pós e contras. Um determinado cliente ficou interessado em compra-lo, mas ao fazer uma análise geral do automóvel, percebeu que embora a compra fosse confiável os contras não valiam
+Na FacilitaAutomóveis há diversos modelos de carros á venda, um deles é o modelo XYZ Sedan que está custando em torno de R$155.000.00. Como qualquer carro ele possui seus pros e contras. Um determinado cliente ficou interessado em compra-lo, mas ao fazer uma análise geral do automóvel, percebeu que embora a compra fosse confiável os contras não valiam
 o custo do valor em questão, fazendo com que o cliente desistisse da compra.
 
 ### Configuração:
