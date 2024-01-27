@@ -1,4 +1,4 @@
-### Desafio de Projeto - Análise de Sentimentos com Language Studio no Azure AI
+### <img src="https://avatars1.githubusercontent.com/u/26231823?s=280&v=4" width="80" height="80"> Desafio de Projeto - Análise de Sentimentos com Language Studio no Azure AI
 
 ### Objetivo:
 Fazer a análise de sentimentos de um consumidor que está prestes a comprar um carro.
