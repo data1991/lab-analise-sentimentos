@@ -7,6 +7,14 @@ Fazer a análise de sentimentos de um consumidor que está prestes a comprar um 
 Na FacilitaAutomóveis há diversos modelos de carros á venda, um deles é o modelo XYZ Sedan que está custando em torno de R$155.000.00. Como qualquer carro ele possui seus pros e contras. Um determinado cliente ficou interessado em compra-lo, mas ao fazer uma análise geral do automóvel, percebeu que embora a compra fosse confiável os contras não valiam
 o custo do valor em questão, fazendo com que o cliente desistisse da compra.
 
+### Orientações de envio do desafio:
+
+1° Crie um novo repositório no github com um nome de sua preferência
+2° Crie uma pasta chamada "inputs" e crie um documento de texto com algumas sentenças
+3° Crie um arquivo chamado readme.md, deixe alguns prints, descreva o processo, alguns insights e possibilidades que você aprendeu durante o conteúdo após a IA analisar suas sentenças
+4° Compartilhe com a DIO o link do seu repositório.
+
+
 ### Configuração:
 
 ##### Step 1: acesse o link: https://portal.azure.com/#home
@@ -56,7 +64,7 @@ o custo do valor em questão, fazendo com que o cliente desistisse da compra.
 ##### Step 7: ✅ I acknowledge that running this demo will incur usage and may incur costs to my azure resource e depois botão "Run"
 ![analyze-sentimentos03](https://github.com/data1991/lab-analise-sentimentos/assets/144493849/05990957-6087-48d3-80a1-0ef78b71694f)
 
-##### Step 8: aguarde a IA criar as suas sentences e pronto!
+##### Step 8: aguarde a IA analisar as suas sentences e pronto!
 
 ### Resultados:
 
@@ -70,4 +78,4 @@ o custo do valor em questão, fazendo com que o cliente desistisse da compra.
 ![analyze-sentimentos06](https://github.com/data1991/lab-analise-sentimentos/assets/144493849/05bfb403-9596-40a3-bf46-30076ed0265d)
 
 
-
+### Insights:
