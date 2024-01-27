@@ -38,3 +38,8 @@ o custo do valor em questão, fazendo com que o cliente desistisse da compra.
 
 ### Criação:
 
+##### Step 1: acesse o link: https://language.cognitive.azure.com/home
+##### Step 2: selecione todas as informações pedidas e clique no botão "Done"
+
+
+
